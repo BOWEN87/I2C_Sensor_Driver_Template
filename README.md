@@ -1,6 +1,6 @@
 # I2C_Sensor_Driver_Template
-模擬 NB Camera 中點sensor的過程（初始化、register map、read ID等）
-模擬 I2C driver + sensor init 流程  可加入 register log、流程圖、debug log 解析範例
+模擬 NB Camera 中點sensor的過程（初始化、register map、read ID等）  
+模擬 I2C driver + sensor init 流程  可加入 register log、流程圖、debug log 解析範例  
 
 /*
 i2c_sensor_driver_template/
